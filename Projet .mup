@@ -1,0 +1,273 @@
+{
+  "title": "Projet ",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "-14": {
+      "title": "coders",
+      "id": "89.gd6a951f2badb666c6",
+      "attr": {
+        "position": [
+          123,
+          18,
+          7
+        ],
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "Keran ",
+          "id": "37.gd591fc383bcaaebfe",
+          "attr": {
+            "style": {
+              "background": "#ff0000"
+            }
+          }
+        },
+        "2": {
+          "title": "Daniel",
+          "id": "41.gd591fc383bcaaebfe",
+          "attr": {
+            "style": {
+              "background": "#F5F5F5"
+            }
+          }
+        },
+        "3": {
+          "title": "Benoît Léo",
+          "id": "39.gd591fc383bcaaebfe",
+          "attr": {
+            "style": {
+              "background": "#ffcc00"
+            }
+          }
+        },
+        "4": {
+          "title": "Florian",
+          "id": "88.gd1383675c7567a56",
+          "attr": {
+            "style": {
+              "background": "#ff00ff"
+            }
+          }
+        },
+        "5": {
+          "title": "Bryan",
+          "id": "87.gd1383675c7567a56",
+          "attr": {
+            "style": {
+              "background": "#FA8072"
+            }
+          },
+          "ideas": {}
+        },
+        "6": {
+          "title": "Sébastien",
+          "id": "90.gd6a951f2badb666c6",
+          "attr": {
+            "style": {
+              "background": "#000000"
+            }
+          }
+        }
+      }
+    },
+    "44.5": {
+      "title": "Utilisateurs et authentification",
+      "id": "91.gd552747ccd01d8784",
+      "attr": {
+        "position": [
+          181.996337890625,
+          -260.4855651855469,
+          18
+        ],
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "seul",
+          "id": "102.gd178c073a5a5aee96"
+        }
+      }
+    },
+    "54.5": {
+      "title": "Cours",
+      "id": "17.gd16a82d1e64e0b6e",
+      "ideas": {
+        "1": {
+          "title": "intégration des vidéos",
+          "id": "13.gd591fc383bcaaebfe",
+          "attr": {
+            "style": {
+              "background": "transparent"
+            }
+          }
+        },
+        "2": {
+          "title": "Images",
+          "id": "15.gd16a82d1e64e0b6e",
+          "ideas": {
+            "1": {
+              "title": "upload",
+              "id": "21.gd313f70dd161697fe",
+              "attr": {
+                "style": {
+                  "background": "transparent"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "transparent"
+            }
+          }
+        },
+        "6": {
+          "title": "upload documents",
+          "id": "23.gd313f70dd161697fe",
+          "attr": {
+            "style": {
+              "background": "transparent"
+            }
+          }
+        },
+        "7": {
+          "title": "Quizz",
+          "id": "24.gd313f70dd161697fe",
+          "ideas": {
+            "2": {
+              "title": "format  texte",
+              "id": "32.gd591fc383bcaaebfe",
+              "attr": {
+                "style": {
+                  "background": "transparent"
+                }
+              }
+            },
+            "3": {
+              "title": "vérificateur + feedback",
+              "id": "33.gd591fc383bcaaebfe",
+              "attr": {
+                "style": {
+                  "background": "transparent"
+                }
+              }
+            },
+            "4": {
+              "title": "Statistiques",
+              "id": "99.gd552747ccd01d8784"
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffcc00"
+            }
+          }
+        },
+        "8": {
+          "title": "Exercice",
+          "id": "25.gd7871f0e5ce62dce9",
+          "ideas": {
+            "1": {
+              "title": "Indices exercices",
+              "id": "22.gd7871f0e5ce62dce9",
+              "attr": {
+                "style": {
+                  "background": "transparent"
+                }
+              }
+            },
+            "2": {
+              "title": "Solutions",
+              "id": "26.gd7871f0e5ce62dce9",
+              "attr": {
+                "style": {
+                  "background": "transparent"
+                }
+              }
+            },
+            "3": {
+              "title": "Création",
+              "id": "100.gd552747ccd01d8784"
+            },
+            "4": {
+              "title": "gén. PDF",
+              "id": "101.gd178c073a5a5aee96"
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "transparent"
+            },
+            "position": [
+              63.0159912109375,
+              188.48410034179688,
+              3
+            ]
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "transparent"
+        },
+        "position": [
+          142,
+          102,
+          15
+        ],
+        "storyboard-scenes": [
+          {
+            "storyboards": {
+              "Storyboard 1": 1
+            }
+          }
+        ]
+      }
+    },
+    "22.25": {
+      "title": "Dashboard",
+      "id": "92.gd552747ccd01d8784",
+      "attr": {
+        "position": [
+          188.98779296875,
+          -491.482177734375,
+          19
+        ],
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "Eleves",
+          "id": "94.gd552747ccd01d8784",
+          "ideas": {
+            "1": {
+              "title": "Statistiques",
+              "id": "97.gd552747ccd01d8784"
+            }
+          }
+        },
+        "2": {
+          "title": "Profs",
+          "id": "95.gd552747ccd01d8784",
+          "ideas": {
+            "1": {
+              "title": "Classes virtuelles",
+              "id": "96.gd552747ccd01d8784"
+            }
+          }
+        }
+      }
+    }
+  },
+  "links": [],
+  "attr": {
+    "style": {
+      "background": "#00008B"
+    },
+    "storyboards": [
+      "Storyboard 1"
+    ]
+  }
+}
